@@ -176,7 +176,7 @@ input, select, textarea {
 	}
 
 	p {
-		text-align: justify;
+		/* text-align: justify; */
 		margin: 0 0 2rem 0;
 	}
 
@@ -4206,7 +4206,7 @@ input, select, textarea {
 				border-left: 0;
 			}
 
-			#footer > section.split {
+			#footer > section. {
 				display: -moz-flex;
 				display: -webkit-flex;
 				display: -ms-flex;
